@@ -3,10 +3,10 @@ Meu nome é Lucas, sou formado em Sistemas de Informação, e atualmente estou t
 
 ### Contato
 - 📫 lucas.vinicius.dev@gmail.com
-<a href="https://www.linkedin.com/in/lucas-vinicius-258379163/">
+<a href="https://www.linkedin.com/in/lucas-vinicius-258379163/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/>
 </a>
-<a href="https://www.facebook.com/profile.php?id=100009453312124">
+<a href="https://www.facebook.com/profile.php?id=100009453312124" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/facebook-new.png"/>
 </a>
 <!--
