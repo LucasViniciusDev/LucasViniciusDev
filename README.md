@@ -2,8 +2,13 @@
 Meu nome é Lucas, sou formado em Sistemas de Informação, e atualmente estou trabalhando como desenvolvedor de softwares. Atualmente estou trabalhando com PHP utilizando framework Laravel, JavaScript com NodeJS para back-end e VueJS para front-end.
 
 ### Contato
-- 📫 E-mail: lucas.vinicius.dev@gmail.com
-- <img src="https://img.icons8.com/office/16/000000/linkedin.png"/> LinkedIn: <a href="https://www.linkedin.com/in/lucas-vinicius-258379163/">Lucas Vinicius</a>
+- 📫 lucas.vinicius.dev@gmail.com
+<a href="https://www.linkedin.com/in/lucas-vinicius-258379163/">
+  <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/>
+</a>
+<a href="https://www.facebook.com/profile.php?id=100009453312124">
+  <img src="https://img.icons8.com/color/48/000000/facebook-new.png"/>
+</a>
 <!--
 **LucasViniciusDev/LucasViniciusDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
