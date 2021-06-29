@@ -1,5 +1,9 @@
-### Hi there 👋
+# Olá 👋
+Meu nome é Lucas, sou formado em Sistemas de Informação, e atualmente estou trabalhando como desenvolvedor de softwares. Atualmente estou trabalhando com PHP utilizando framework Laravel, JavaScript com NodeJS para back-end e VueJS para front-end.
 
+### Contato
+- 📫 E-mail: lucas.vinicius.dev@gmail.com
+- <img src="https://img.icons8.com/office/16/000000/linkedin.png"/> LinkedIn: <a href="https://www.linkedin.com/in/lucas-vinicius-258379163/">Lucas Vinicius</a>
 <!--
 **LucasViniciusDev/LucasViniciusDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
