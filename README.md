@@ -1,5 +1,5 @@
 # Olá 👋
-Meu nome é Lucas, sou formado em Sistemas de Informação, e atualmente estou trabalhando como desenvolvedor de softwares. Atualmente estou trabalhando com PHP utilizando framework Laravel, JavaScript com NodeJS para back-end e VueJS para front-end.
+Meu nome é Lucas Vinicius, sou desenvolvedor de software, graduado em Sistemas de Informação. Atualmente estou trabalhando com PHP/Laravel, JavaScript, TypeScript, NodeJS e VueJS.
 
 ### Contato
 - 📫 lucas.vinicius.dev@gmail.com
